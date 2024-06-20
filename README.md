@@ -1,18 +1,5 @@
 <h1 align="center">Strong Password Generator</h1>
 
-<p align="center">
-  <img src="create-strong-password.webp" alt="Strong Password Generator">
-</p>
-
-<p align="center">  
-  <b>This project is a simple yet effective web application that generates strong passwords.</b>
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#technologies-used">Technologies Used</a> •
-  <a href="#how-to-use">How to Use</a>
-</p>
 
 ---
 
@@ -30,6 +17,9 @@
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/strong-password-generator.git
+1. Simply click the "Generate Password" button to create a new strong password. The generated password is displayed on the page, ready to be used for your security needs.
+2. This project is ideal for learning about basic web development techniques and implementing cryptographic functionalities in JavaScript.
+<br>
+<p align="center">
+  Made with ❤️ by Muhammad Hamid Raza
+</p>
